@@ -1,0 +1,19 @@
+body {
+    background: rgb(241, 229, 202);
+    color: rgb(4, 52, 4);
+}
+
+div.header {
+    font-family:'Palatino', serif;
+    font-size: 48px;
+    font-variant: small-caps;
+    text-align: center;
+    padding-top: 20px;
+}
+
+div.job.title {
+    font-family: 'Palatino', serif;
+    font-size: 18px;
+    font-variant: small-caps;
+    text-align: center;
+}
